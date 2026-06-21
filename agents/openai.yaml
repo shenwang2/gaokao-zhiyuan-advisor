@@ -1,0 +1,4 @@
+interface:
+  display_name: "高考志愿顾问"
+  short_description: "自动补齐省份官方数据包，并生成高考志愿冲稳保建议"
+  default_prompt: "Use $gaokao-zhiyuan-advisor to build or repair the official province data pack, then create a 高考志愿填报方案。"
